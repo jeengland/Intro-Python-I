@@ -1,5 +1,5 @@
-# For the exercise, look up the methods and functions that are available for use
-# with Python lists.
+# For the exercise, look up the methods and functions that are available for
+# use with Python lists.
 
 x = [1, 2, 3]
 y = [8, 9, 10]
@@ -32,5 +32,5 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
-for i in x: 
+for i in x:
     print(i * 1000)
